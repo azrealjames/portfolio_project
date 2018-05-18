@@ -55,5 +55,7 @@ li {
 }
 
 #logo {
-  color: blue;
+  color: rgb(0, 0, 114);
+  font-family: 'Monoton', cursive;
+  font-size: 3.0vh;
 }

@@ -28,15 +28,19 @@ html {
   transform: translate(-50%, -50%);
 }
 
-h1, 
+h1 {
+  /* font-size: 95px; */
+  font-size: 5.9vw;
+}
+
 h2 {
-  font-size: 95px;
+  font-size: 3.0vh;
 }
 
 p, 
 a, 
 li {
-  font-size: 24px;
+  font-size: 2vmin;
   line-height: 36px;
 }
 
